@@ -1,6 +1,9 @@
 # learn-letsencrypt-dns-challenge
 how to create a self signed cert in private hosted zone
 
+### DNS challenge with LetsEncrypt
+https://www.digitalocean.com/community/tutorials/how-to-acquire-a-let-s-encrypt-certificate-using-dns-validation-with-acme-dns-certbot-on-ubuntu-18-04
+
 ### Requirements
 https://certbot-dns-route53.readthedocs.io/en/latest/
 
