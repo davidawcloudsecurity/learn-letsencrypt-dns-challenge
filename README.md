@@ -12,4 +12,6 @@ https://johnrix.medium.com/automating-dns-challenge-based-letsencrypt-certificat
 ### How to
 https://github.com/jed/certbot-route53
 
+### How to maintain
+https://github.com/joohoi/acme-dns
 
